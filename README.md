@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a second year CS student at the Hebrew University of Jerusalem.
-- 🔭 Currently working on my university courses 'Introduction to Probability and statistics' , 'Algorithms' and 'Differential and Integral Calculus for CS'
+I am a third year CS student at the Hebrew University of Jerusalem.
+- 🔭 Currently working on my university courses 'Image processing' ,'Software Engineering' ,'Introduction to Communication Networks' and 'Cyber Law'
     
     Intersted in mathematics, algorithms and artificial intelligence
 <br>
