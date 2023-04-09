@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a third year CS student at the Hebrew University of Jerusalem.
-- 🔭 Currently working on my university courses 'Introduction to Machine Learning' ,'Operating Systems' ,'Neural Networks for Images' and 'Introduction to Cryptography'
+- 🔭 Currently working on my university courses 'Introduction to Machine Learning' ,'Operating Systems' ,'Databases' and 'Introduction to Cryptography'
     
     Intersted in mathematics, algorithms and artificial intelligence
 <br>
