@@ -1,14 +1,10 @@
 ### Hello World 👋
-I am a third year CS student at the Hebrew University of Jerusalem.
-- 🔭 Currently working on my university courses 'Introduction to Machine Learning' ,'Operating Systems' ,'Databases' and 'Introduction to Cryptography'
-    
-    Intersted in mathematics, algorithms and artificial intelligence
+Computer science student pursuing a Bachelor's degree and commencing a Master's program in October 2024. Currently a Research Assistant at the Computer Vision Laboratory, Hebrew University, focused on image anomaly detection using deep learning. Passionate about computer vision, deep learning, and their practical applications. Skilled in Python, C/C++, Java, JavaScript, SQL, machine learning, deep learning, and computer vision.
 <br>
 
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/israel-ben-david)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16665775/israel-ben-david)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:israelbd98+githubprofile@gmail.com)
 <br>
 <br>
